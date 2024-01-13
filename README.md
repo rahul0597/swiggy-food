@@ -1,0 +1,17 @@
+# parcel 
+-creates a dev build
+-local server
+-HMR=Hot Module Replacement
+-Uses File Watching Algorithm=written in c++
+-gives faster dev builds because of caching
+-also optimizes images
+-Minification of files
+-bundling
+-Compress
+-consistent hashing
+-code splitting
+-differential bundling to support older browsers
+-diagnostics behind scenes
+-error handling
+-tree shaking-remove unused code for u
+-creates different dev and production bundle
