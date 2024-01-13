@@ -1,0 +1,25 @@
+{
+  "name": "swiggy-food",
+  "version": "1.0.0",
+  "description": "food delivering app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul0597/swiggy-food.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "rahul rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul0597/swiggy-food/issues"
+  },
+  "homepage": "https://github.com/rahul0597/swiggy-food#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
